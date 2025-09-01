@@ -1,0 +1,44 @@
+{
+  "name": "codequest-2025",
+  "version": "1.0.0",
+  "description": "CodeQuest 2025 - IEEE UCSC Student Branch Competitive Programming Event",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000 --open=/index.html",
+    "build": "sass styles.scss styles.css --style=compressed",
+    "watch": "sass styles.scss styles.css --watch",
+    "dev": "concurrently \"npm run watch\" \"npm run start\"",
+    "lint": "eslint *.js",
+    "format": "prettier --write *.html *.css *.scss *.js",
+    "optimize": "npm run build && npm run format"
+  },
+  "keywords": [
+    "competitive-programming",
+    "ieee",
+    "ucsc",
+    "coding-competition",
+    "web-development",
+    "sass",
+    "responsive-design"
+  ],
+  "author": "IEEE UCSC Student Branch Web Team",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "sass": "^1.69.0",
+    "concurrently": "^8.2.2",
+    "eslint": "^8.55.0",
+    "prettier": "^3.1.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ieee-ucsc/codequest-2025.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ieee-ucsc/codequest-2025/issues"
+  },
+  "homepage": "https://codequest.ucscieee.lk"
+}
