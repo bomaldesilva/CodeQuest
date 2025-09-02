@@ -3,9 +3,9 @@
 **The Ultimate Competitive Programming Challenge**
 
 **Developed By:**
-Janidu Bomal De Silva
-bomaldsilva@gmail.com
-2024/IS/020
+-Janidu Bomal De Silva
+-bomaldsilva@gmail.com
+-2024/IS/020
 
 Organized by IEEE UCSC Student Branch
 
