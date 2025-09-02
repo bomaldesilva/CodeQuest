@@ -54,8 +54,8 @@ Organized by IEEE UCSC Student Branch
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ieee-ucsc/codequest-2025.git
-   cd codequest-2025
+   git clone https://github.com/bomaldesilva/CodeQuest.git
+   cd CodeQuest
    ```
 
 2. **Install dependencies**
