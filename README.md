@@ -282,10 +282,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Team
 
 ### **IEEE UCSC Student Branch Web Team**
-- **Project Lead**: [Your Name]
-- **Frontend Developer**: [Your Name]
-- **UI/UX Designer**: [Your Name]
-- **Backend Developer**: [Your Name]
+- **Project Lead**: Bomal De Silva
+- **Frontend Developer**: Bomal De Silva
+- **UI/UX Designer**: Bomal De Silva
 
 ### **Contact**
 - **Email**: codequest@ucscieee.lk
