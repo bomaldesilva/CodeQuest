@@ -6,7 +6,6 @@ Organized by IEEE UCSC Student Branch
 
 ![CodeQuest 2025](https://img.shields.io/badge/CodeQuest-2025-blue?style=for-the-badge&logo=code)
 ![IEEE UCSC](https://img.shields.io/badge/IEEE-UCSC-red?style=for-the-badge&logo=ieee)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ## 🌟 Features
 
@@ -314,6 +313,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by IEEE UCSC Student Branch**
+**Made by IEEE UCSC Student Branch**
 
 *Empowering the next generation of programmers*
