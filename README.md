@@ -2,6 +2,11 @@
 
 **The Ultimate Competitive Programming Challenge**
 
+**Developed By:**
+Janidu Bomal De Silva
+bomaldsilva@gmail.com
+2024/IS/020
+
 Organized by IEEE UCSC Student Branch
 
 ![CodeQuest 2025](https://img.shields.io/badge/CodeQuest-2025-blue?style=for-the-badge&logo=code)
